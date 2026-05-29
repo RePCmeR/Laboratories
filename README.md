@@ -1,7 +1,7 @@
 ## Лабораторные работы по машинному обучению
 
 ### Домашняя работа 1
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml/Домашняя%20работа%201/homework_practice_01_polars_Perevalov%20(1).ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%201/homework_practice_01_polars_Perevalov%20(1).ipynb)
 
 **Стек:** Polars
 
@@ -13,7 +13,7 @@
 ---
 
 ### Домашняя работа 2 (линейная регрессия и градиентный спуск)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml/Домашняя%20работа%202/homework-practice-02-gd-Perevalov.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%202/homework-practice-02-gd-Perevalov.ipynb)
 
 **Стек:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn
 
@@ -37,7 +37,7 @@
 ---
 
 ### Домашняя работа 4 (Нейронные сети)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml/Домашняя%20работа%204/homework_practice_04_dl-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%204/homework_practice_04_dl-PerevalovDaniil.ipynb)
 
 **Стек:** PyTorch, Numpy, Pandas, Sklearn, Matplotlib, tqdm, librosa
 
@@ -57,7 +57,7 @@
 ---
 
 ### Домашняя работа 5 (Деревья)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml/Домашняя%20работа%205/homework-practice-05-trees-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%205/homework-practice-05-trees-PerevalovDaniil.ipynb)
 
 **Стек:** Nummpy, Pandas, Matplotlib, Seaborn, Sklearn
 
@@ -74,7 +74,7 @@
 ---
 
 ### Домашняя работа 6 (Бустинг)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml/Домашняя%20работа%206/homework_practice_06_boosting-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%206/homework_practice_06_boosting-PerevalovDaniil.ipynb)
 
 **Стек:** Numpy, Pandas, Sklearn, XGBoost, LightGBM, Optuna, Seaborn, Matplotlib
 
@@ -100,7 +100,7 @@
 ---
 
 ### Домашняя работа бонус (Методы оценки важности признаков)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml/Домашняя%20работа%20бонус/homework-practice-bonus-XAI-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%20бонус/homework-practice-bonus-XAI-PerevalovDaniil.ipynb)
 
 **Стек:** Numpy, Pandas, Sklearn, Matplotlib, Seaborn, SHAP, LIME, PyALE, fat‑forensics
 
@@ -118,7 +118,7 @@
 ## Лабораторные работы по математическим дисциплинам
 
 ### 1. Линейная алгебра и геометрия — часть 1
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/Labs/homework-practice-02-linregr-Perevalov_Daniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/math%20labs/HSE_Linalg_Lab_Fall_2024_final.ipynb)
 
 **Основные задачи:**
 - Знакомство с библиотеками SciPy и NumPy.
@@ -129,7 +129,7 @@
 ---
 
 ### 2. Линейная алгебра и геометрия — часть 2 (Линейная регрессия)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/Labs/homework-practice-02-linregr-Perevalov_Daniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/math%20labs/homework-practice-02-linregr-Perevalov_Daniil.ipynb)
 
 **Что сделано:**
 - Реализована модель линейной регрессии для предсказания стоимости жилья на основе признаков:
@@ -145,7 +145,7 @@
 ---
 
 ### 3. Линейная алгебра и геометрия — часть 3 (SVD)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/Labs/homework_practice_03_linregr_Perevalov_Daniil_3.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/math%20labs/homework_practice_03_linregr_Perevalov_Daniil_3.ipynb)
 
 **Темы:**
 - Изучение сингулярного разложения матрицы (SVD) и его практического применения.
@@ -155,7 +155,7 @@
 ---
 
 ### 4. Математический анализ (SymPy, градиенты, интегрирование)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/Labs/Perevalov_Daniil__Lab_ipynb_%20.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/math%20labs/Perevalov_Daniil__Lab_ipynb_%20.ipynb)
 
 **Часть 1 – SymPy и 3D‑графика:**
 - Исследование возможностей библиотеки **SymPy**.
