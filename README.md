@@ -100,7 +100,7 @@
 ---
 
 ### Домашняя работа бонус (Методы оценки важности признаков)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%206/homework_practice_06_boosting-PerevalovDaniil.pdf)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%20бонус/homework-practice-bonus-XAI-PerevalovDaniil.pdf)
 
 **Стек:** Numpy, Pandas, Sklearn, Matplotlib, Seaborn, SHAP, LIME, PyALE, fat‑forensics
 
