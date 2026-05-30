@@ -1,7 +1,7 @@
 ## Лабораторные работы по машинному обучению
 
 ### Домашняя работа 1
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%201/homework_practice_01_polars_Perevalov%20(1).ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%201/homework_practice_01_polars_Perevalov%20(1).pdf)
 
 **Стек:** Polars
 
@@ -13,7 +13,7 @@
 ---
 
 ### Домашняя работа 2 (линейная регрессия и градиентный спуск)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%202/homework-practice-02-gd-Perevalov.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%202/homework-practice-02-gd-Perevalov.pdf)
 
 **Стек:** Pandas, Numpy, Sklearn, Matplotlib, Seaborn
 
@@ -37,7 +37,7 @@
 ---
 
 ### Домашняя работа 4 (Нейронные сети)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%204/homework_practice_04_dl-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%204/homework_practice_04_dl-PerevalovDaniil.pdf)
 
 **Стек:** PyTorch, Numpy, Pandas, Sklearn, Matplotlib, tqdm, librosa
 
@@ -57,7 +57,7 @@
 ---
 
 ### Домашняя работа 5 (Деревья)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%205/homework-practice-05-trees-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%205/homework-practice-05-trees-PerevalovDaniil.pdf)
 
 **Стек:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
@@ -74,7 +74,7 @@
 ---
 
 ### Домашняя работа 6 (Бустинг)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%206/homework_practice_06_boosting-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%206/homework_practice_06_boosting-PerevalovDaniil.pdf)
 
 **Стек:** Numpy, Pandas, Sklearn, XGBoost, LightGBM, Optuna, Seaborn, Matplotlib
 
@@ -100,7 +100,7 @@
 ---
 
 ### Домашняя работа бонус (Методы оценки важности признаков)
-🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%20бонус/homework-practice-bonus-XAI-PerevalovDaniil.ipynb)
+🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml_labs/Домашняя%20работа%206/homework_practice_06_boosting-PerevalovDaniil.pdf)
 
 **Стек:** Numpy, Pandas, Sklearn, Matplotlib, Seaborn, SHAP, LIME, PyALE, fat‑forensics
 
