@@ -59,7 +59,7 @@
 ### Домашняя работа 5 (Деревья)
 🔗 [Ноутбук с работой](https://github.com/RePCmeR/Laboratories/blob/main/ml%20labs/Домашняя%20работа%205/homework-practice-05-trees-PerevalovDaniil.ipynb)
 
-**Стек:** Nummpy, Pandas, Matplotlib, Seaborn, Sklearn
+**Стек:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
 **Что сделано:**
 - На датасетах sklearn обучены три решающих дерева с базовыми гиперпараматрами, построил разделяющие поверхности и сравнил accuracy на train/test.
